@@ -1,0 +1,40 @@
+table, th, td {       
+    border: 1px solid black;
+    border-spacing: 0.1em;
+    width: 25%;
+}
+
+input[type=text], select {
+    width: 20%;
+    background: white;
+  }
+  
+  input[type=submit] {
+    width: 40%;
+    background: white;
+    align-content: right;
+  }
+  
+  
+  input[type="date"] {
+    background: white;
+  }
+
+  input[type="time"] {
+      background: white;
+  }
+
+  input[type="radio"] {
+      background: white;
+  }
+
+  input[type=select]{
+      background: white;
+  }
+  
+  div {
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid black;
+  }
