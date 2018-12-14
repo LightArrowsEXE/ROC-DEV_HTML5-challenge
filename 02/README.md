@@ -1,3 +1,5 @@
+I figured out way too late that for this github structure to work, I had to separate everything.
+
 ## Opdracht 2
 Scissor Magic is gespecialiseerd in uiteenlopende kapsels. Om de site te kunnen maken moet je een aantal plaatjes op maat snijden en bewaren in het juiste formaat.
 Bekijk de youtube-video’s bij de opdracht om te zien hoe jouw site eruit moet komen te zien. In het overzicht hierboven vind je achter je naam het versienummer voor jouw site.
