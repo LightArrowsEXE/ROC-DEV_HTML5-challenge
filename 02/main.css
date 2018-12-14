@@ -1,0 +1,13 @@
+table, th, td {
+            
+    border: 1px solid black;
+    width: 40%;
+}
+
+th {
+    column-span: 6;
+}
+
+td {
+    column-span: 3;
+}
