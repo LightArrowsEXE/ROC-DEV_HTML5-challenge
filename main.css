@@ -1,5 +1,5 @@
 body {
-    background-image: url(/img/udon.png), url(https://files.catbox.moe/lryx7p.png), url(/img/punishment_game.png), url(https://files.catbox.moe/l1drn5.png);
+    background-image: url(img/udon.png);
     background-color: #ffffff;
 
     font-family: Helvetica, sans-serif, Arial;
@@ -18,3 +18,4 @@ a {
 a:hover {
     color: #00407a;
     text-decoration: underline;
+}
